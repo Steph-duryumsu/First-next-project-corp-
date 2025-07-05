@@ -5,9 +5,9 @@ import Hero from '@/components/hero';
 export default function Home() {
   return (
     <Hero 
-      imgData={'/home.jpg'} 
-      imageAlt="Car factory" 
-      title="Professional cloud hosting" 
+      imgData={'/scale.jpg'} 
+      imageAlt="Steel factory" 
+      title="Scale your app to infinity" 
     />
   );
 }
